@@ -9,7 +9,7 @@ export default {
 
   'shell.brandTag': 'তদন্ত গোয়েন্দা তথ্য',
   'shell.statusActive': 'সিস্টেম সক্রিয় · লাইভ ডেটা',
-  'shell.version': 'এমপিল্যাডস সেন্টিনেল · SIH 2026',
+  'shell.version': 'এমপিল্যাডস সেন্টিনেল',
   'shell.portal': 'এমপিল্যাডস পর্যবেক্ষণ পোর্টাল',
   'shell.openNav': 'নেভিগেশন খুলুন',
   'shell.home': 'হোম',
@@ -82,7 +82,7 @@ export default {
   'landing.surface.method.desc': 'প্রতিটি সংকেত ও স্কোর ঠিক কীভাবে গণনা করা হয়, সহজ ভাষায়।',
 
   'landing.footer.tagline': 'প্রমাণ দিয়ে নির্মিত, অভিযোগ দিয়ে নয়।',
-  'landing.footer.credit': 'এমপিল্যাডস সেন্টিনেল · স্মার্ট ইন্ডিয়া হ্যাকাথন ২০২৬-এর জন্য নির্মিত',
+  'landing.footer.credit': 'এমপিল্যাডস সেন্টিনেল
 
   'dash.heading': 'এমপিল্যাডস বাস্তবায়ন গোয়েন্দা তথ্য',
   'dash.subtitle': 'বিশ্লেষণাত্মক সংকেতের ভিত্তিতে প্রেক্ষাপট-সচেতন তদন্ত অগ্রাধিকার',

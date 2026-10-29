@@ -9,7 +9,7 @@ export default {
 
   'shell.brandTag': 'ਜਾਂਚ ਖੁਫੀਆ ਜਾਣਕਾਰੀ',
   'shell.statusActive': 'ਸਿਸਟਮ ਸਰਗਰਮ · ਲਾਈਵ ਡਾਟਾ',
-  'shell.version': 'ਐਮਪੀਲੈਡਸ ਸੈਂਟੀਨਲ · SIH 2026',
+  'shell.version': 'ਐਮਪੀਲੈਡਸ ਸੈਂਟੀਨਲ',
   'shell.portal': 'ਐਮਪੀਲੈਡਸ ਨਿਗਰਾਨੀ ਪੋਰਟਲ',
   'shell.openNav': 'ਨੈਵੀਗੇਸ਼ਨ ਖੋਲ੍ਹੋ',
   'shell.home': 'ਮੁੱਖ ਪੰਨਾ',
@@ -82,7 +82,7 @@ export default {
   'landing.surface.method.desc': 'ਹਰ ਸੰਕੇਤ ਅਤੇ ਸਕੋਰ ਬਿਲਕੁਲ ਕਿਵੇਂ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ, ਸਰਲ ਭਾਸ਼ਾ ਵਿੱਚ।',
 
   'landing.footer.tagline': 'ਸਬੂਤ ਨਾਲ ਬਣਾਇਆ, ਦੋਸ਼ ਨਾਲ ਨਹੀਂ।',
-  'landing.footer.credit': 'ਐਮਪੀਲੈਡਸ ਸੈਂਟੀਨਲ · ਸਮਾਰਟ ਇੰਡੀਆ ਹੈਕਾਥਾਨ 2026 ਲਈ ਬਣਾਇਆ',
+  'landing.footer.credit': 'ਐਮਪੀਲੈਡਸ ਸੈਂਟੀਨਲ
 
   'dash.heading': 'ਐਮਪੀਲੈਡਸ ਲਾਗੂਕਰਨ ਖੁਫੀਆ ਜਾਣਕਾਰੀ',
   'dash.subtitle': 'ਵਿਸ਼ਲੇਸ਼ਣਾਤਮਕ ਸੰਕੇਤਾਂ ਦੇ ਅਧਾਰ ਤੇ ਸੰਦਰਭ-ਸੁਚੇਤ ਜਾਂਚ ਤਰਜੀਹ',

@@ -9,7 +9,7 @@ export default {
 
   'shell.brandTag': 'તપાસ ગુપ્તચર માહિતી',
   'shell.statusActive': 'સિસ્ટમ સક્રિય · જીવંત ડેટા',
-  'shell.version': 'એમપીલેડ્સ સેન્ટિનેલ · SIH 2026',
+  'shell.version': 'એમપીલેડ્સ સેન્ટિનેલ',
   'shell.portal': 'એમપીલેડ્સ દેખરેખ પોર્ટલ',
   'shell.openNav': 'નેવિગેશન ખોલો',
   'shell.home': 'મુખ્ય પૃષ્ઠ',
@@ -82,7 +82,7 @@ export default {
   'landing.surface.method.desc': 'દરેક સંકેત અને સ્કોર બરાબર કેવી રીતે ગણાય છે, સરળ ભાષામાં.',
 
   'landing.footer.tagline': 'પુરાવાથી બનેલું, આરોપથી નહીં.',
-  'landing.footer.credit': 'એમપીલેડ્સ સેન્ટિનેલ · સ્માર્ટ ઇન્ડિયા હેકાથોન ૨૦૨૬ માટે નિર્મિત',
+  'landing.footer.credit': 'એમપીલેડ્સ સેન્ટિનેલ
 
   'dash.heading': 'એમપીલેડ્સ અમલીકરણ ગુપ્તચર માહિતી',
   'dash.subtitle': 'વિશ્લેષણાત્મક સંકેતો પર આધારિત સંદર્ભ-સભાન તપાસ પ્રાથમિકતા',

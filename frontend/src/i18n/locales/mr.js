@@ -9,7 +9,7 @@ export default {
 
   'shell.brandTag': 'तपास गुप्तवार्ता',
   'shell.statusActive': 'प्रणाली कार्यरत · थेट डेटा',
-  'shell.version': 'एमपीलॅड्स सेंटिनेल · SIH 2026',
+  'shell.version': 'एमपीलॅड्स सेंटिनेल',
   'shell.portal': 'एमपीलॅड्स देखरेख पोर्टल',
   'shell.openNav': 'नेव्हिगेशन उघडा',
   'shell.home': 'मुख्यपृष्ठ',
@@ -82,7 +82,7 @@ export default {
   'landing.surface.method.desc': 'प्रत्येक संकेत व गुणांक नेमका कसा मोजला जातो, सोप्या भाषेत.',
 
   'landing.footer.tagline': 'पुराव्याने बनवलेले, आरोपाने नाही.',
-  'landing.footer.credit': 'एमपीलॅड्स सेंटिनेल · स्मार्ट इंडिया हॅकेथॉन २०२६ साठी निर्मित',
+  'landing.footer.credit': 'एमपीलॅड्स सेंटिनेल
 
   'dash.heading': 'एमपीलॅड्स अंमलबजावणी गुप्तवार्ता',
   'dash.subtitle': 'विश्लेषणात्मक संकेतांवर आधारित संदर्भ-जागरूक तपास प्राधान्य',

@@ -58,7 +58,7 @@ export default {
   // ---- App shell: sidebar + topbar ----
   'shell.brandTag': 'Investigation Intelligence',
   'shell.statusActive': 'System Active · Live Data',
-  'shell.version': 'MPLADS Sentinel · SIH 2026',
+  'shell.version': 'MPLADS Sentinel',
   'shell.portal': 'MPLADS Monitoring Portal',
   'shell.openNav': 'Open navigation',
   'shell.home': 'Home',
@@ -171,7 +171,7 @@ export default {
 
   // ---- Landing: footer ----
   'landing.footer.tagline': 'Built with evidence, not accusation.',
-  'landing.footer.credit': 'MPLADS Sentinel · Built for Smart India Hackathon 2026',
+  'landing.footer.credit': 'MPLADS Sentinel
 
   // ---- Dashboard ----
   'dash.heading': 'MPLADS Implementation Intelligence',

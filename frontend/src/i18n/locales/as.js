@@ -9,7 +9,7 @@ export default {
 
   'shell.brandTag': 'তদন্ত গোপন তথ্য',
   'shell.statusActive': 'ছিষ্টেম সক্ৰিয় · লাইভ ডাটা',
-  'shell.version': 'এমপিলাড্ছ চেণ্টিনেল · SIH 2026',
+  'shell.version': 'এমপিলাড্ছ চেণ্টিনেল',
   'shell.portal': 'এমপিলাড্ছ নিৰীক্ষণ পৰ্টেল',
   'shell.openNav': 'নেভিগেশ্বন খোলক',
   'shell.home': 'মূল পৃষ্ঠা',
@@ -82,7 +82,7 @@ export default {
   'landing.surface.method.desc': 'প্ৰতিটো সংকেত আৰু স্ক\'ৰ ঠিক কেনেকৈ গণনা কৰা হয়, সৰল ভাষাত।',
 
   'landing.footer.tagline': 'প্ৰমাণেৰে নিৰ্মিত, অভিযোগেৰে নহয়।',
-  'landing.footer.credit': 'এমপিলাড্ছ চেণ্টিনেল · স্মাৰ্ট ইণ্ডিয়া হেকাথন ২০২৬ৰ বাবে নিৰ্মিত',
+  'landing.footer.credit': 'এমপিলাড্ছ চেণ্টিনেল
 
   'dash.heading': 'এমপিলাড্ছ ৰূপায়ণ গোপন তথ্য',
   'dash.subtitle': 'বিশ্লেষণাত্মক সংকেতৰ ভিত্তিত প্ৰসংগ-সচেতন তদন্ত অগ্ৰাধিকাৰ',

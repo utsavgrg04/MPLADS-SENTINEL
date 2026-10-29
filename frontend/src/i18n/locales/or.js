@@ -9,7 +9,7 @@ export default {
 
   'shell.brandTag': 'ଅନୁସନ୍ଧାନ ଗୁପ୍ତଚର ସୂଚନା',
   'shell.statusActive': 'ସିଷ୍ଟମ ସକ୍ରିୟ · ଲାଇଭ ତଥ୍ୟ',
-  'shell.version': 'ଏମପିଲାଡ୍ସ ସେଣ୍ଟିନେଲ · SIH 2026',
+  'shell.version': 'ଏମପିଲାଡ୍ସ ସେଣ୍ଟିନେଲ',
   'shell.portal': 'ଏମପିଲାଡ୍ସ ନିରୀକ୍ଷଣ ପୋର୍ଟାଲ',
   'shell.openNav': 'ନାଭିଗେସନ ଖୋଲନ୍ତୁ',
   'shell.home': 'ମୂଳପୃଷ୍ଠା',
@@ -82,7 +82,7 @@ export default {
   'landing.surface.method.desc': 'ପ୍ରତ୍ୟେକ ସଙ୍କେତ ଏବଂ ସ୍କୋର ଠିକ୍ କିପରି ଗଣନା ହୁଏ, ସରଳ ଭାଷାରେ।',
 
   'landing.footer.tagline': 'ପ୍ରମାଣରେ ନିର୍ମିତ, ଅଭିଯୋଗରେ ନୁହେଁ।',
-  'landing.footer.credit': 'ଏମପିଲାଡ୍ସ ସେଣ୍ଟିନେଲ · ସ୍ମାର୍ଟ ଇଣ୍ଡିଆ ହ୍ୟାକାଥନ ୨୦୨୬ ପାଇଁ ନିର୍ମିତ',
+  'landing.footer.credit': 'ଏମପିଲାଡ୍ସ ସେଣ୍ଟିନେଲ
 
   'dash.heading': 'ଏମପିଲାଡ୍ସ କାର୍ଯ୍ୟକାରିତା ଗୁପ୍ତଚର ସୂଚନା',
   'dash.subtitle': 'ବିଶ୍ଳେଷଣାତ୍ମକ ସଙ୍କେତ ଉପରେ ଆଧାରିତ ପ୍ରସଙ୍ଗ-ସଚେତନ ଅନୁସନ୍ଧାନ ପ୍ରାଥମିକତା',

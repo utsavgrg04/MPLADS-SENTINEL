@@ -53,7 +53,7 @@ export default {
 
   'shell.brandTag': 'जाँच आसूचना',
   'shell.statusActive': 'सिस्टम सक्रिय · लाइव डेटा',
-  'shell.version': 'एमपीलैड्स सेंटिनल · SIH 2026',
+  'shell.version': 'एमपीलैड्स सेंटिनल',
   'shell.portal': 'एमपीलैड्स निगरानी पोर्टल',
   'shell.openNav': 'नेविगेशन खोलें',
   'shell.home': 'होम',
@@ -128,7 +128,7 @@ export default {
   'landing.surface.method.desc': 'प्रत्येक संकेत और अंक की गणना ठीक कैसे होती है, सरल भाषा में।',
 
   'landing.footer.tagline': 'साक्ष्य से निर्मित, आरोप से नहीं।',
-  'landing.footer.credit': 'एमपीलैड्स सेंटिनल · स्मार्ट इंडिया हैकाथॉन 2026 हेतु निर्मित',
+  'landing.footer.credit': 'एमपीलैड्स सेंटिनल
 
   'dash.heading': 'एमपीलैड्स कार्यान्वयन आसूचना',
   'dash.subtitle': 'विश्लेषणात्मक संकेतों पर आधारित संदर्भ-सचेत जाँच प्राथमिकता',
